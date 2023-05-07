@@ -10,6 +10,7 @@
 .list-item {
     line-height: 1.5;
     border: none;
+    list-style-type: none;
 }
 
 .card-body {
