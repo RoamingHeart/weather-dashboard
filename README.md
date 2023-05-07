@@ -11,6 +11,7 @@ This API used Bootstrap, jQuery, and Day.js to format and make the page function
 * [Open Weather API](https://openweathermap.org/forecast5)
 * [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 * [Day.js](https://day.js.org/)
+* [jQuery](https://jqueryui.com/)
 
 ## Usage
 Enter in a city's name and the current weather conditions as well as the next 5 day weather forecast will appear before you on the screen.

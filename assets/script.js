@@ -123,6 +123,7 @@ function showUV(index) {
 }
 
 function get5Forcast(city) {
+    //use jQuery to call the variables into the api url
     var apiURL = `https://api.openweathermap.org/data/2.5/forecast?q=${city}&units=imperial&appid=${apiKey}`
 
     fetch(apiURL)
